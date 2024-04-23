@@ -21,9 +21,9 @@
   },
   "homepage": "http://github.com/andris9/nodemailer-smtp-transport",
   "dependencies": {
-    "nodemailer-shared": "1.1.0",
-    "nodemailer-wellknown": "0.1.10",
-    "smtp-connection": "https://github.com/ratriches/smtp-connection.git"
+    "nodemailer-shared": "github:ratriches/nodemailer-shared",
+    "nodemailer-wellknown": "github:ratriches/nodemailer-wellknown",
+    "smtp-connection": "github:ratriches/smtp-connection"
   },
   "devDependencies": {
     "chai": "^3.5.0",
